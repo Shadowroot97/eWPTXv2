@@ -6,7 +6,7 @@ mindmap
     ::icon(fas fa-skull)
     Origins
       Long history
-      ::icon(fas fa-skull)
+      ::icon(fa fa-book)
       
       Popularisation
         British popular psychology author Tony Buzan
@@ -22,3 +22,4 @@ mindmap
       Pen and paper
       Mermaid
       ::icon(fa fa-book)
+
