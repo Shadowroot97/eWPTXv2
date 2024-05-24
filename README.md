@@ -2,7 +2,7 @@
 
 ```mermaid
 mindmap
-  root))eWPTXv2 ☠(
+  root))eWPTXv2 ☠((
     Origins
       Long history
       
