@@ -2,7 +2,7 @@
 
 ```mermaid
 mindmap
-  root)eWPTXv2 👺(
+  root)**eWPTXv2** 👺(
     Resources 🤓
         https://my.ine.com/CyberSecurity/courses/630a470a/web-application-penetration-testing-extreme
         https://www.youtube.com/watch?v=xQ2rivaFcsE
