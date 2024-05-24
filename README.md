@@ -9,7 +9,7 @@ mindmap
         https://www.youtube.com/watch?v=UfILDa_qStQ
         https://www.youtube.com/watch?v=x_vPhmvsTOc
         https://portswigger.net/support/sql-injection-in-different-statement-types?source=post_page-----a741220cf145--------------------------------
-    Labs
+    Labs 👾
         Server-side request forgery (SSRF)
             https://portswigger.net/web-security/all-labs#server-side-request-forgery-ssrf
         Cross-site scripting (XSS)
@@ -27,7 +27,7 @@ mindmap
         Authentication vulnerabilities
             https://portswigger.net/web-security/all-labs#authentication
 
-    Tools
+    Tools 🤓
         https://github.com/xmendez/wfuzz
         https://github.com/frohoff/ysoserial
         https://github.com/sqlmapproject/sqlmap
