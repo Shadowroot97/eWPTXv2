@@ -10,9 +10,9 @@ mindmap
         https://www.youtube.com/watch?v=x_vPhmvsTOc
         https://portswigger.net/support/sql-injection-in-different-statement-types?source=post_page-----a741220cf145--------------------------------
     Labs 👾
-        Server-side request forgery (SSRF)
+        Server-side request forgery
             https://portswigger.net/web-security/all-labs#server-side-request-forgery-ssrf
-        Cross-site scripting (XSS)
+        Cross-site scripting
             https://portswigger.net/web-security/all-labs#cross-site-scripting
         SQLi
             https://portswigger.net/web-security/all-labs#sql-injection
@@ -22,7 +22,7 @@ mindmap
             https://portswigger.net/web-security/all-labs#server-side-template-injection
         Insecure deserialization
             https://portswigger.net/web-security/all-labs#insecure-deserialization
-        Cross-site request forgery (CSRF)
+        Cross-site request forgery
             https://portswigger.net/web-security/all-labs#cross-site-request-forgery-csrf
         Authentication vulnerabilities
             https://portswigger.net/web-security/all-labs#authentication
