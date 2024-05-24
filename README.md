@@ -4,7 +4,7 @@
 mindmap
   root((<font color="blue">eWPTXv2</font>))
     Resources
-      Resource1[<font color="blue">Web Application Penetration Testing Extreme</font>]
+      Resource1[<font color="yellow">Web Application Penetration Testing Extreme</font>]
       Resource2[<font color="blue">YouTube Video 1</font>]
       Resource3[<font color="blue">YouTube Video 2</font>]
       Resource4[<font color="blue">YouTube Video 3</font>]
