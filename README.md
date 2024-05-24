@@ -2,7 +2,7 @@
 
 ```mermaid
 mindmap
-  root))eWPTXv2(
+  root))eWPTXv2 ♥(
     ::icon(fas fa-skull)
     Origins
       Long history
