@@ -3,25 +3,25 @@
 ```mermaid
 mindmap
   root((eWPTXv2))
-    Resources
-      Resource1[<font color="#1f77b4">Web Application Penetration Testing Extreme</font>]
-      Resource2[<font color="#d62728">YouTube Video 1</font>]
-      Resource3[<font color="#d62728">YouTube Video 2</font>]
-      Resource4[<font color="#d62728">YouTube Video 3</font>]
-      Resource5[<font color="#1f77b4">SQL Injection in Different Statement Types</font>]
-    Labs
-      Lab1[<font color="#2ca02c">Server-side request forgery</font>]
-      Lab2[<font color="#2ca02c">Cross-site scripting</font>]
-      Lab3[<font color="#2ca02c">SQL Injection</font>]
-      Lab4[<font color="#2ca02c">XXE & XXE Blind</font>]
-      Lab5[<font color="#2ca02c">Server-side template injection</font>]
-      Lab6[<font color="#2ca02c">Insecure deserialization</font>]
-      Lab7[<font color="#2ca02c">Cross-site request forgery</font>]
-      Lab8[<font color="#2ca02c">Authentication vulnerabilities</font>]
-    Tools
-      Tool1[<font color="#9467bd">Wfuzz</font>]
-      Tool2[<font color="#9467bd">ysoserial</font>]
-      Tool3[<font color="#9467bd">SQLMap</font>]
-      Tool4[<font color="#9467bd">PHP Reverse Shell</font>]
-      Tool5[<font color="#9467bd">Online PHP Editor</font>]
-      Tool6[<font color="#9467bd">XSS Cheat Sheet</font>]
+    Resources::icon(fa fa-book)
+      Resource1[Web Application Penetration Testing Extreme]::icon(fa fa-book)
+      Resource2[YouTube Video 1]::icon(fa fa-youtube)
+      Resource3[YouTube Video 2]::icon(fa fa-youtube)
+      Resource4[YouTube Video 3]::icon(fa fa-youtube)
+      Resource5[SQL Injection in Different Statement Types]::icon(fa fa-book)
+    Labs::icon(fa fa-flask)
+      Lab1[Server-side request forgery]::icon(fa fa-bug)
+      Lab2[Cross-site scripting]::icon(fa fa-bug)
+      Lab3[SQL Injection]::icon(fa fa-bug)
+      Lab4[XXE & XXE Blind]::icon(fa fa-bug)
+      Lab5[Server-side template injection]::icon(fa fa-bug)
+      Lab6[Insecure deserialization]::icon(fa fa-bug)
+      Lab7[Cross-site request forgery]::icon(fa fa-bug)
+      Lab8[Authentication vulnerabilities]::icon(fa fa-bug)
+    Tools::icon(fa fa-wrench)
+      Tool1[Wfuzz]::icon(fa fa-wrench)
+      Tool2[ysoserial]::icon(fa fa-wrench)
+      Tool3[SQLMap]::icon(fa fa-wrench)
+      Tool4[PHP Reverse Shell]::icon(fa fa-wrench)
+      Tool5[Online PHP Editor]::icon(fa fa-wrench)
+      Tool6[XSS Cheat Sheet]::icon(fa fa-wrench)
